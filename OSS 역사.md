@@ -19,8 +19,10 @@
 
 ## 1984
 > GNU 프로젝트를 시작하므로서 자유 소프트웨어 운동의 공식적인 시작을 알림
-> 
-> ![GNU의 상징인 동물 뿔말(gnu)](https://user-images.githubusercontent.com/114066603/193474503-62bb6a8b-7c4a-4579-acdd-88cf4f05d7d1.svg)
+>
+>![뿔말](https://user-images.githubusercontent.com/114066603/193474616-a60688eb-705d-476d-85c4-75d4c683fc6e.png)
+>
+> (GNU의 상징인 동물 뿔말(gnu))
 
 <br>
 
