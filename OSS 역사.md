@@ -22,7 +22,7 @@
 
 ![뿔말](https://user-images.githubusercontent.com/114066603/193474668-37158c8c-ab08-4b58-b4aa-59d1ba562a2a.png)
 
-> GNU의 상징인 동물 뿔말(gnu)
+GNU의 상징인 동물 뿔말(gnu)
 
 <br>
 
@@ -33,7 +33,7 @@
 
 ![FSF 재단 로고](https://user-images.githubusercontent.com/114066603/193474482-c390c0bc-5d42-422d-8be3-114f9f5721d3.png)
 
-> FSF 재단 로고
+FSF 재단 로고
 
 <br>
 
