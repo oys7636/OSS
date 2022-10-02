@@ -19,10 +19,10 @@
 
 ## 1984
 > GNU 프로젝트를 시작하므로서 자유 소프트웨어 운동의 공식적인 시작을 알림
->
-> ![뿔말](https://user-images.githubusercontent.com/114066603/193474668-37158c8c-ab08-4b58-b4aa-59d1ba562a2a.png)
->
-> (GNU의 상징인 동물 뿔말(gnu))
+
+![뿔말](https://user-images.githubusercontent.com/114066603/193474668-37158c8c-ab08-4b58-b4aa-59d1ba562a2a.png)
+
+> GNU의 상징인 동물 뿔말(gnu)
 
 <br>
 
@@ -30,8 +30,10 @@
 > FSF (프리 소프트웨어 재단)을 조직
 >
 >'소프트웨어는 공유되어야 하며 프로그래머는 소프트웨어로 돈을 벌어서는 안된다.' 라는 내용의 GNU 선언문을 재정
->
->![FSF 재단 로고](https://user-images.githubusercontent.com/114066603/193474482-c390c0bc-5d42-422d-8be3-114f9f5721d3.png)
+
+![FSF 재단 로고](https://user-images.githubusercontent.com/114066603/193474482-c390c0bc-5d42-422d-8be3-114f9f5721d3.png)
+
+> FSF 재단 로고
 
 <br>
 
