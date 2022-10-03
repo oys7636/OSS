@@ -38,7 +38,7 @@
 
 ## 오픈소스의 중요성
 >
-> <img src ="https://user-images.githubusercontent.com/114066603/193521889-172e1833-bdad-4748-9a10-b20e3591ff3b.jpg"      width="400px" height="200px">
+> <img src ="https://user-images.githubusercontent.com/114066603/193521889-172e1833-bdad-4748-9a10-b20e3591ff3b.jpg"      width="400px" height="250px">
 >
 > <br>
 >
